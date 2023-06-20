@@ -31,7 +31,7 @@
 > element on right and hence -1.
 > ```
 > *Answer*<br>
-> **code** [Link]()
+> **code** [Link](https://github.com/Srijana1425/Stacks_Assignment15/blob/main/ans1.js)
 *********************************************************************************************************************************************************************
 ## 💡 Question 02
 
@@ -59,7 +59,7 @@
 > is closest. Similary for 5 it is 4.
 > ```
 > > *Answer*<br>
-> **code** [Link]()
+> **code** [Link](https://github.com/Srijana1425/Stacks_Assignment15/blob/main/ans2.js)
 *********************************************************************************************************************************************************************
 ## 💡 Question 03
 
@@ -96,7 +96,7 @@
 > Output:2 -1
 > ```
 > > *Answer*<br>
-> **code** [Link]()
+> **code** [Link](https://github.com/Srijana1425/Stacks_Assignment15/blob/main/ans3.js)
 *********************************************************************************************************************************************************************
 ## 💡 Question 04
 
@@ -116,7 +116,7 @@
 > Output:{6,9,3,4}
 > ```
 > > *Answer*<br>
-> **code** [Link]()
+> **code** [Link](https://github.com/Srijana1425/Stacks_Assignment15/blob/main/ans4.js)
 *********************************************************************************************************************************************************************
 ## 💡 Question 05
 
@@ -156,7 +156,7 @@
 > expression, we have -3 as result.
 > ```
 > > *Answer*<br>
-> **code** [Link]()
+> **code** [Link](https://github.com/Srijana1425/Stacks_Assignment15/blob/main/ans6.js)
 *********************************************************************************************************************************************************************
 ## 💡 Question 07
 
@@ -193,7 +193,7 @@
 > minStack.getMin(); // return -2
 > ```
 > > *Answer*<br>
-> **code** [Link]()
+> **code** [Link](https://github.com/Srijana1425/Stacks_Assignment15/blob/main/ans7.js)
 *********************************************************************************************************************************************************************
 ## 💡 Question 08
 
@@ -216,4 +216,4 @@ Input: height = [4,2,0,3,2,5]
 Output: 9
 ```
 > *Answer*<br>
-> **code** [Link]()
+> **code** [Link](https://github.com/Srijana1425/Stacks_Assignment15/blob/main/ans8.js)
